@@ -39,4 +39,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cryptic-exe&show_icons=true&locale=en" alt="cryptic-exe" /></p>
 
+<p align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;<b><i>Statistics Graph...</i></b></p>
+
+  <img alt="Deepak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cryptic-exe&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cryptic-exe&" alt="cryptic-exe" /></p>
