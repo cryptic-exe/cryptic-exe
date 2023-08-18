@@ -8,9 +8,9 @@
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
 - :credit_card: My full name is **Deepak Mor** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- :school: I'm currently 4th year student at **Graphic Era Univerysity Dehradun**
+- :school: I'm currently Working at **Groundtruth**
 - :books: My major is **Computer Science Engineering**
-- :earth_asia: I'm living now in **Dehradun**
+- :earth_asia: I'm living now in **Gurugram**
 - :sweat_smile: I know C++,Python,HTML,CSS,Javascript, and Flutter languages. Now I'm focus on learning Full Stack Web Development.
 - :monocle_face: I'm interested in coding, sleeping, and watching film
 - :sunglasses: My quote is ***"It's never too late - never too late to start over, never too late to be happy"*** 
