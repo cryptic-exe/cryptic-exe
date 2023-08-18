@@ -45,7 +45,7 @@
       <img align="center" alt="cryptic-exe | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
   </a> &nbsp;&nbsp;
   
-  <a href="https://www.instagram.com/imdeepakmor/" target="_blank">
+  <a href="https://www.instagram.com/thedeepakmor/" target="_blank">
     <img align="center" alt="cryptic-exe | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   
@@ -56,7 +56,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2021 Deepak Mor 
+  &copy; 2023 Deepak Mor 
 </div>
 
 ------
